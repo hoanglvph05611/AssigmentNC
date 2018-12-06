@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_course"
+        android:icon="@drawable/ic_collections_bookmark_black_course"
+        android:title="Course" />
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/ic_add_location_black_map"
+        android:title="Maps" />
+
+    <item
+        android:id="@+id/navigation_new"
+        android:icon="@drawable/ic_search_black_new"
+        android:title="News" />
+    <item
+        android:id="@+id/navigation_social"
+        android:icon="@drawable/ic_event_note_black_social"
+        android:title="Social" />
+
+</menu>

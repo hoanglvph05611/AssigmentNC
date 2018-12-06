@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AssigmentNC</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">1452135581584841</string>
+
+
+</resources>

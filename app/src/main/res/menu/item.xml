@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Đăng ký lịch học"
+    android:id="@+id/dkLichHoc"></item>
+    <item android:title="Danh sách đăng ký"
+        android:id="@+id/dsDangKy"></item>
+    <item android:title="Lịch Học"
+        android:id="@+id/LichHoc"></item>
+</menu>
